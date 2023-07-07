@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! Me chamo Felipe Jheimisson Lima de Oliveira 👋
+### Sou estudande de Análise e Desenvolvimento de Sistemas na FIAP 🎓
+Estou iniciando na área e estou sempre disposto a aprender! 💚
+
+# Meus principais projetos
+
+- https://github.com/felipejhl/Royale-Finance
 
 <!--
 **felipejhl/felipejhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
