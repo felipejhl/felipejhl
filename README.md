@@ -5,6 +5,8 @@ Estou iniciando na área e estou sempre disposto a aprender! 💚
 # Meus principais projetos
 
 - https://github.com/felipejhl/Royale-Finance
+- https://github.com/felipejhl/EasyDriverAI
+- https://github.com/felipejhl/CidadeEmProgresso
 
 <!--
 **felipejhl/felipejhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
