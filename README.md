@@ -25,10 +25,10 @@ Meu objetivo de carreira é se tornar um Desenvolvedor Fullstack com ênfase em 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4996BA&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=34&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Felipe+Jheimisson+Lima.;Tenho+20+anos+de+idade;Sou+de+Osasco,+SP.;Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+FIAP.;Estou+sempe+disposto+a+aprender!;Meu+objetivo+é+me+tornar+um+Desenvolvedor+FullStack;com+ênfase+em+Frontend.+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=34&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Felipe+Jheimisson+Lima.;Tenho+20+anos+de+idade+e+sou+de+Osasco+-+SP.;Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+FIAP.;Meu+objetivo+é+me+tornar+um+Desenvolvedor+FullStack;com+ênfase+em+Frontend.;Estou+sempe+disposto+a+aprender!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipejhl&show_icons=true&count_private=true&hide_border=true&title_color=4996BA&icon_color=4996BA&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Lima github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipejhl&show_icons=true&count_private=true&hide_border=true&title_color=4996BA&icon_color=4996BA&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Lima's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipejhl&layout=compact&hide_border=true&title_color=4996BA&text_color=4996BA&bg_color=0d1117" />
 
 </div> 
@@ -36,17 +36,12 @@ Meu objetivo de carreira é se tornar um Desenvolvedor Fullstack com ênfase em 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipejhl&bg_color=00070D&color=4996BA&line=4996BA&point=0F5282&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipejhl&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+-->
 
-<div align="center">  
-<a href="https://www.instagram.com/felipejhl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/felipejhl/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
-
-
- 
 ## Habilidades principais:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
