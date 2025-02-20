@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### Olá! Me chamo Felipe Lima 👋
-## Sou estudande de Análise e Desenvolvimento de Sistemas na FIAP 🎓
+## Sou recém-formado em Análise e Desenvolvimento de Sistemas na FIAP 🎓
 Estou iniciando na área e estou sempre disposto a aprender! 💚
 Meu objetivo de carreira é se tornar um Desenvolvedor Fullstack com ênfase em Front-end.
+Atualmente estou estudando e criando projetos para alcançar esse objetivo.
 
 # Meus principais projetos
 
@@ -25,7 +26,7 @@ Meu objetivo de carreira é se tornar um Desenvolvedor Fullstack com ênfase em 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4996BA&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=28&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Felipe+Jheimisson+Lima.;Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+FIAP.;Meu+objetivo+é+me+tornar+um+Desenvolvedor+FullStack;com+ênfase+em+Frontend.;Estou+sempe+disposto+a+aprender!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=28&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Felipe+Jheimisson+Lima.;Sou+recém+formado+em+Análise+e+Desenvolvimento+de+Sistemas+na+FIAP.;Meu+objetivo+é+me+tornar+um+Desenvolvedor+FullStack;com+ênfase+em+Frontend.;Atualmente+estou+estudando+e+criando+projetos+para+alcançar+esse+objetivo.;Estou+sempe+disposto+a+aprender!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipejhl&show_icons=true&count_private=true&hide_border=true&title_color=4996BA&icon_color=4996BA&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Lima's github stats" /> 
